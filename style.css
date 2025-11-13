@@ -10,18 +10,17 @@
   width: 80%;
   margin: 20px auto;
 }
-.navbar {
-  background-color: #add3f8;
-  padding: 1rem;
+.bio-container {
   text-align: center;
+  margin-top: 60px;
+  padding: 20px;
 }
-.bio.html {
-  max-width: 800px;
-  margin: 2rem auto;
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  padding: 0 1rem;
-}
-.bio.html h1, .bio.html h2 {
-  color: #333;
+
+.round-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #007bff;
+  margin-bottom: 20px;
 }
