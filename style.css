@@ -1,9 +1,16 @@
-.image-container {
-  width: 10%;          
-  height: 10%;
-  margin: auto;  
-  border-radius: 50%;   
-  right: 10%;
-  left: 10%;
-  overflow: hidden;
+.img-fluid {
+  width: 100%;
+  height: auto;
+  margin: 1em;
+}
+.img-container {
+  position: relative;
+  align-items: center;
+  background-color: rgb(221, 93, 178);
+  padding: 1rem;
+  border: 5px solid #000000;
+  border-top: 10px solid #000000;
+  border-bottom: 10px solid #000000;
+  width: 80%;
+  margin: 20px auto;
 }
