@@ -6,9 +6,7 @@
 .img-container {
   position: relative;
   align-items: center;
-  background-color: rgb(221, 93, 178);
   padding: 1rem;
-  border: 5px solid #000000;
   width: 80%;
   margin: 20px auto;
 }
